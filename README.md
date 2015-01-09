@@ -1,5 +1,7 @@
 capstone
 ========
+This repo contains project related documents for the "Marionette DAQ"<br>
+
 http://www.microdaq.com/measurement_computing/usb_data_acquisition/multifunction/index.php <br>
 http://www.open-daq.com/ <br>
 http://www.linux-usb-daq.co.uk/ <br>
