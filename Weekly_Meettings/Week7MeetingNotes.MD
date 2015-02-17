@@ -36,6 +36,7 @@
 *	behind that use fine pitch 0.05" male headers 
 *	one connector will be I2C 
 *	another connector will be "mBUS" (I2C)
+* No more than 64 GPIO on the Edge connector of death
 
 
 ## LEDs
@@ -52,3 +53,7 @@
 *	12-bit resolution
 *	0-3.3V output 
 *	If we find a really really good one maybe ditch the STM's DAC
+
+## RGB LED
+* Implement PWM 
+ * Pick three channels (timer pins)
